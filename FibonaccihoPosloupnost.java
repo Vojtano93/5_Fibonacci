@@ -4,7 +4,7 @@ public class FibonaccihoPosloupnost {
         System.out.println("Fibonacciho posloupnost");
 
         // Hodnota vstupu
-        int n = 1000000000;
+        int n = 10;
 
         // Zobrazení výsledku Fibonacciho čísla
         System.out.println("Fibonacciho číslo je: " + fibonacci(n));
